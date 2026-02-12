@@ -1,0 +1,178 @@
+[
+  {
+    "title": "罗技G Pro X Superlight 2 游戏鼠标发布",
+    "source": "in外设",
+    "url": "https://www.example.com/article-1",
+    "publish_date": "2026-01-15",
+    "content_text": "罗技今日发布了G Pro X Superlight 2游戏鼠标，搭载Hero 2传感器，DPI高达30000，重量仅60g，售价159美元。该鼠标采用无线设计，支持2.4GHz和蓝牙连接，续航时间长达70小时。罗技表示这是目前最轻的无线游戏鼠标，专为职业电竞选手设计。鼠标采用罗技最新的Lightspeed无线技术，延迟低至1ms。",
+    "images": ["https://example.com/mouse1.jpg"]
+  },
+  {
+    "title": "雷蛇毒蝰V3 Pro鼠标发布",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-2",
+    "publish_date": "2026-01-16",
+    "content_text": "雷蛇推出毒蝰V3 Pro游戏鼠标，搭载Focus Pro 30K传感器，采用对称手型设计，重量约59g。支持雷蛇HyperSpeed无线技术，续航约90小时。官方售价1299元。该鼠标配备光学微动，点击寿命约9000万次，支持RGB灯效。",
+    "images": ["https://example.com/mouse2.jpg"]
+  },
+  {
+    "title": "VGN蜻蜓F1 Pro Max轻量化鼠标",
+    "source": "in外设",
+    "url": "https://www.example.com/article-3",
+    "publish_date": "2026-01-17",
+    "content_text": "VGN发布蜻蜓F1 Pro Max轻量化游戏鼠标，搭载PAW3395传感器，重量仅48g，售价299元。支持三模连接，2.4G模式下续航约80小时。采用 Nordic 主控芯片，回报率最高1000Hz。配备凯华GM8.0微动，支持热插拔更换。",
+    "images": ["https://example.com/mouse3.jpg"]
+  },
+  {
+    "title": "ATK天龙X1无线鼠标上市",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-4",
+    "publish_date": "2026-01-18",
+    "content_text": "ATK推出天龙X1无线游戏鼠标，搭载PAW3950传感器，重量约55g，售价359元。支持4K回报率，配备氮化镓接收器。采用旗舰级 Nordic 主控，支持无线充电。鼠标表面采用类肤涂层，手感舒适。",
+    "images": ["https://example.com/mouse4.jpg"]
+  },
+  {
+    "title": "Keychron Q1 Pro机械键盘发售",
+    "source": "in外设",
+    "url": "https://www.example.com/article-5",
+    "publish_date": "2026-01-19",
+    "content_text": "Keychron Q1 Pro全铝合金机械键盘现已发售，采用Gasket结构设计，支持QMK/VIA开源改键。键盘配备热插拔轴座，兼容5脚轴体，内置4000mAh电池，支持三模连接。售价199元起，提供多种轴体和键帽配置选择。全键热插拔设计，RGB背光。",
+    "images": []
+  },
+  {
+    "title": "珂芝K75 Pro键盘预热",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-6",
+    "publish_date": "2026-01-20",
+    "content_text": "珂芝K75 Pro机械键盘即将上市，采用75%配列，Gasket mount结构。配备全键热插拔轴座，支持RGB背光，内置4800mAh电池。预计售价299元起。键盘采用PBT双色注塑键帽，提供多种轴体选择。",
+    "images": ["https://example.com/kb1.jpg"]
+  },
+  {
+    "title": "冰豹Kone Pro Air鼠标评测",
+    "source": "in外设",
+    "url": "https://www.example.com/article-7",
+    "publish_date": "2026-01-21",
+    "content_text": "冰豹Kone Pro Air无线游戏鼠标采用泰坦滚轮技术，搭载Owl-Eye传感器，重量约73g。支持2.4G和蓝牙双模连接，续航时间约100小时。采用Bionic Shell人体工学设计，适合中大手型玩家。售价699元。",
+    "images": ["https://example.com/mouse5.jpg"]
+  },
+  {
+    "title": "美商海盗船K70 RGB Pro MK.2键盘",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-8",
+    "publish_date": "2026-01-22",
+    "content_text": "美商海盗船推出K70 RGB Pro MX机械键盘，采用Cherry MX轴体，配备航空级铝合金框架。支持USB Pass-through， dedicated媒体控制键，RGB动态背光。售价1299元。全键无冲，可自定义宏编程。",
+    "images": ["https://example.com/kb2.jpg"]
+  },
+  {
+    "title": "Xtrfy M42无线鼠标发布",
+    "source": "in外设",
+    "url": "https://www.example.com/article-9",
+    "publish_date": "2026-01-23",
+    "content_text": "瑞典外设品牌Xtrfy发布M42无线游戏鼠标，重量仅67g，搭载PixArt 3370传感器。支持2.4GHz无线连接，续航约70小时。采用对称设计，适合抓握和指握。售价约89欧元。",
+    "images": ["https://example.com/mouse6.jpg"]
+  },
+  {
+    "title": "Ducky One 3 RGB键盘上市",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-10",
+    "publish_date": "2026-01-24",
+    "content_text": "Ducky One 3 RGB机械键盘采用全铝合金上盖，Cherry MX轴体，双色注塑PBT键帽。全键RGB背光，支持多种灯效模式。采用Quadshot技术，提供更细腻的灯光效果。售价899元起。",
+    "images": ["https://example.com/kb3.jpg"]
+  },
+  {
+    "title": "Fnatic Flick 2电竞鼠标",
+    "source": "in外设",
+    "url": "https://www.example.com/article-11",
+    "publish_date": "2026-01-25",
+    "content_text": "Fnatic发布Flick 2电竞鼠标，搭载PMW-3360传感器，重量约58g。采用对称设计，适合中小手玩家。配备欧姆龙微动，寿命约5000万次。支持RGB灯效，售价59.99美元。",
+    "images": ["https://example.com/mouse7.jpg"]
+  },
+  {
+    "title": "努比亚红魔游戏鼠标上市",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-12",
+    "publish_date": "2026-01-26",
+    "content_text": "红魔推出电竞游戏鼠标，搭载PAW3395传感器，重量约53g。支持2.4G无线和有线双模连接，采用RGB灯带环绕设计。配备凯华微动，支持8000万次点击。售价399元。",
+    "images": ["https://example.com/mouse8.jpg"]
+  },
+  {
+    "title": "努比亚红魔机械键盘发布",
+    "source": "in外设",
+    "url": "https://www.example.com/article-13",
+    "publish_date": "2026-01-27",
+    "content_text": "红魔发布机械键盘，采用87键配列，Gasket结构设计。配备全键热插拔轴座，支持RGB背光，内置4000mAh电池。支持三模连接，售价499元。采用PBT键帽，提供多种轴体选择。",
+    "images": ["https://example.com/kb4.jpg"]
+  },
+  {
+    "title": "Endgame Gear XM2无线鼠标",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-14",
+    "publish_date": "2026-01-28",
+    "content_text": "Endgame Gear推出XM2无线版游戏鼠标，重量约56g，搭载PixArt 3370传感器。采用分体式按键设计，配备Kailh GM 8.0微动。支持2.4G无线，续航约70小时。售价79.99欧元。",
+    "images": ["https://example.com/mouse9.jpg"]
+  },
+  {
+    "title": "Alloy Origins 60键盘评测",
+    "source": "in外设",
+    "url": "https://www.example.com/article-15",
+    "publish_date": "2026-01-29",
+    "content_text": "HyperX Alloy Origins 60机械键盘采用60%配列，HyperX自主轴体。航空级铝合金框架，RGB动态背光。键盘寿命约8000万次点击，支持N-Key无冲。售价699元。",
+    "images": ["https://example.com/kb5.jpg"]
+  },
+  {
+    "title": "Zowie EC2-C鼠标新版本",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-16",
+    "publish_date": "2026-01-30",
+    "content_text": "Zowie推出EC2-C新款电竞鼠标，采用3360传感器，重量约93g。人体工学设计，适合右手握持。采用即插即用免驱动设计，DPI档位可调。售价399元。为CS:GO职业选手常用鼠标。",
+    "images": ["https://example.com/mouse10.jpg"]
+  },
+  {
+    "title": "RK皇家机械键盘新系列",
+    "source": "in外设",
+    "url": "https://www.example.com/article-17",
+    "publish_date": "2026-01-31",
+    "content_text": "RK发布新款机械键盘，采用98配列，Gasket结构。配备全键热插拔，支持三模连接，RGB背光。内置4000mAh电池，续航约200小时。售价249元起。采用PBT键帽，提供多种轴体选择。",
+    "images": ["https://example.com/kb6.jpg"]
+  },
+  {
+    "title": "迈从A5无线双模鼠标",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-18",
+    "publish_date": "2026-02-01",
+    "content_text": "迈从A5无线鼠标搭载PAW3395传感器，重量约52g。支持2.4G和蓝牙双模连接，续航约80小时。采用对称设计，适合各种握姿。配备凯华微动，售价299元。",
+    "images": ["https://example.com/mouse11.jpg"]
+  },
+  {
+    "title": "狼蛛A75机械键盘预售",
+    "source": "in外设",
+    "url": "https://www.example.com/article-19",
+    "publish_date": "2026-02-02",
+    "content_text": "狼蛛A75机械键盘采用75%配列，Gasket结构。配备全键热插拔轴座，支持QMK/VIA改键。内置4800mAh电池，支持三模连接。售价229元起。采用PBT双色注塑键帽，RGB背光。",
+    "images": ["https://example.com/kb7.jpg"]
+  },
+  {
+    "title": "赛睿Rival 600鼠标评测",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-20",
+    "publish_date": "2026-02-03",
+    "content_text": "赛睿Rival 600采用TrueMove3+传感器，双传感器系统。重量约101g，支持1对1追踪。配备赛睿Qc微动，寿命约6000万次。支持RGB灯效，售价599元。",
+    "images": ["https://example.com/mouse12.jpg"]
+  },
+  {
+    "title": "Akko 5087B键盘上架",
+    "source": "in外设",
+    "url": "https://www.example.com/article-21",
+    "publish_date": "2026-02-04",
+    "content_text": "Akko 5087B机械键盘采用87键配列，PC定位板设计。配备Akko自研轴体，支持全键热插拔。内置4000mAh电池，支持三模连接。售价399元。采用MDA高度的PBT键帽。",
+    "images": ["https://example.com/kb8.jpg"]
+  },
+  {
+    "title": "迈从X5轻量化鼠标",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-22",
+    "publish_date": "2026-02-05",
+    "content_text": "迈从X5轻量化游戏鼠标搭载PAW3395传感器，重量仅48g。支持三模连接，2.4G模式下续航约100小时。采用Nordic主控，支持4K回报率。售价349元。配备凯华GM8.0微动。",
+    "images": ["https://example.com/mouse13.jpg"]
+  }
+]

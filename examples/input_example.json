@@ -1,0 +1,18 @@
+[
+  {
+    "title": "罗技G Pro X Superlight 2 游戏鼠标发布",
+    "source": "in外设",
+    "url": "https://www.example.com/article-123",
+    "publish_date": "2026-01-15",
+    "content_text": "罗技今日发布了G Pro X Superlight 2游戏鼠标，搭载Hero 2传感器，重量仅60g，售价159美元。该鼠标采用无线设计，支持2.4GHz和蓝牙连接，续航时间长达70小时。罗技表示这是目前最轻的无线游戏鼠标，专为职业电竞选手设计。",
+    "images": ["https://example.com/mouse.jpg"]
+  },
+  {
+    "title": "Keychron Q1 Pro 机械键盘上架",
+    "source": "外设天下",
+    "url": "https://www.example.com/article-456",
+    "publish_date": "2026-01-20",
+    "content_text": "Keychron Q1 Pro全铝合金机械键盘现已上架，采用Gasket结构设计，支持QMK/VIA开源改键。键盘配备热插拔轴座，兼容5脚轴体，内置4000mAh电池，支持三模连接。售价199元起，提供多种轴体和键帽配置选择。",
+    "images": []
+  }
+]

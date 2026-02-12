@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir:*)",
+      "Bash(test:*)",
+      "Bash(python:*)",
+      "Bash(ls:*)",
+      "Bash(timeout:*)",
+      "Bash(start output/*.html)",
+      "Bash(taskkill:*)",
+      "Bash(tee:*)",
+      "Bash(set PYTHONIOENCODING=utf-8:*)",
+      "Bash(chcp:*)",
+      "Bash(findstr:*)",
+      "Bash(cat:*)"
+    ]
+  }
+}
