@@ -1,3 +1,22 @@
+---
+name: peripheral-monitor-skill
+description: 一键生成专业级外设新品 PM 深度分析 HTML 报告。从 in外设、外设天下等平台爬取键鼠新品资讯，使用 LLM 进行产品参数提取和深度分析，生成包含交互式图表的深色主题 HTML 报告。
+version: 1.0.0
+author: Peripheral Monitor Team
+license: MIT
+tags: [peripherals, spider, llm, product-analysis, report-generator]
+requirements:
+  - python>=3.9,<3.14
+  - requests
+  - beautifulsoup4
+  - pandas
+  - openai
+environment:
+  - LLM_API_KEY
+  - LLM_API_BASE
+  - LLM_MODEL
+---
+
 # 外设新品监控报告生成系统 - 技术规范
 
 > 版本: v1.0.0
