@@ -1,3 +1,27 @@
+## 一键安装（拿链接就能用）
+
+把本仓库克隆到 Claude Code 的 skills 目录后即可使用。
+
+### Windows（PowerShell）
+```powershell
+New-Item -ItemType Directory -Force "$env:USERPROFILE\.claude\skills" | Out-Null
+git clone https://github.com/deepjwshu/peripheral-monitor-skill.git "$env:USERPROFILE\.claude\skills\peripheral-monitor-skill"
+```
+
+### macOS / Linux
+```bash
+mkdir -p ~/.claude/skills
+git clone https://github.com/deepjwshu/peripheral-monitor-skill.git ~/.claude/skills/peripheral-monitor-skill
+```
+
+### 使用方式
+
+确保你的 Skill 入口文件存在：`SKILL.md`
+
+在 Claude Code 中输入：`/peripheral-monitor-skill`（以 SKILL.md 中的 name 为准）
+
+---
+
 # 外设新品监控报告生成系统 (Peripheral Monitor Skill)
 
 > 一键生成专业级外设新品 PM 深度分析 HTML 报告
